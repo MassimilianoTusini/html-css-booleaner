@@ -40,5 +40,14 @@ a{
 .testo-piccolo-grigio{
     font-size:12px;
     color: #808080;
+}
 
+/* Foto e descrizione foto */
+
+.foto{
+    margin: 20px 0;
+}
+
+.testo-piccolo{
+    font-size: 12px;
 }
