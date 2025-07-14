@@ -80,3 +80,10 @@ a{
 .grafico{
     background-image: url(../img/graph.jpg);
 }
+
+/* Posizionamento lista */
+
+ul{
+    padding: 0px;
+    list-style-position: inside;
+}
