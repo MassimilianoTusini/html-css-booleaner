@@ -87,3 +87,27 @@ ul{
     padding: 0px;
     list-style-position: inside;
 }
+
+/* Tabella */
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.una-cella{
+    width: 50%;
+}
+
+th{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+tr{
+    background-color: #b1e5f2;
+}
+
+.white{
+    background-color: white;
+}
