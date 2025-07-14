@@ -1,0 +1,121 @@
+
+/* Container della pagina */
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+    
+/* Banner e Logo */
+
+.header{
+    width: 100%;
+}
+
+.header-banner{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 45%;
+    height: 100px;
+    line-height: 100px;
+
+}
+#logo{
+    width: 180px;
+    vertical-align: bottom;
+    margin: 5px 5px;
+}
+
+/* Titolo e scritte sotto */
+
+h1{
+    margin-bottom: 3px;
+    font-size: 38px;
+}
+
+.testo-rotondo-grigio{
+    color: #808080;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+a{
+    color: #4ea0ff;
+    text-decoration: none;
+}
+
+.testo-piccolo-grigio{
+    font-size:12px;
+    color: #808080;
+}
+
+/* Foto e descrizione foto */
+
+.foto{
+    margin: 20px 0;
+}
+
+.testo-piccolo{
+    font-size: 12px;
+}
+
+/* Fondo pagina con foto finali */
+
+.testo-grigio{
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+.box{
+    margin-bottom: 10px;
+}
+.box-foto{
+    color: white;
+    height: 160px;
+    width: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 0px;
+    font-size: 18px;
+}
+.pc{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    background-image: url(../img/graph.jpg);
+}
+
+/* Posizionamento lista */
+
+ul{
+    padding: 0px;
+    list-style-position: inside;
+}
+
+/* Tabella */
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.una-cella{
+    width: 50%;
+}
+
+th{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+tr{
+    background-color: #b1e5f2;
+}
+
+.white{
+    background-color: white;
+}
