@@ -51,3 +51,32 @@ a{
 .testo-piccolo{
     font-size: 12px;
 }
+
+/* Fondo pagina con foto finali */
+
+.testo-grigio{
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+.box{
+    margin-bottom: 10px;
+}
+.box-foto{
+    color: white;
+    height: 160px;
+    width: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 0px;
+    font-size: 18px;
+}
+.pc{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+    background-image: url(../img/graph.jpg);
+}
