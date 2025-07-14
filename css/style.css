@@ -1,0 +1,44 @@
+/* Banner e Logo */
+.header{
+    margin: -8px;
+}
+    
+
+.header-banner{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 45%;
+    height: 100px;
+    line-height: 100px;
+
+}
+#logo{
+    width: 180px;
+    vertical-align: bottom;
+    margin: 5px 5px;
+}
+
+/* Titolo e scritte sotto */
+
+h1{
+    margin-bottom: 3px;
+    font-size: 38px;
+}
+
+.testo-rotondo-grigio{
+    color: #808080;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+a{
+    color: #4ea0ff;
+    text-decoration: none;
+}
+
+.testo-piccolo-grigio{
+    font-size:12px;
+    color: #808080;
+
+}
